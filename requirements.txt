@@ -1,0 +1,4 @@
+pfultz2/cget-recipes #for easy install other third-parties
+nlohmann/json --test
+abseil/googletest --test
+curl
